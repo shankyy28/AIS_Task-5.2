@@ -6,4 +6,7 @@ src/app
 
 README.md
 
-This is an app
+
+This is a project Temperature converter made from html , css and JS.
+
+
