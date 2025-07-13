@@ -3,3 +3,5 @@
 src/index
 src/style
 src/app
+
+README.md
